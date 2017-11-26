@@ -1,0 +1,6 @@
+export const FIRSTPAGE = 'firstPage'
+export const CATEGORY = 'category'
+export const CLASSIFY = 'classify'
+export const BRAND = 'brand'
+export const SHOPCART = 'shopcart'
+export const MINE =  'mine'
